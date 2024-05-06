@@ -1,5 +1,5 @@
 site_name: Enchentes RS
-repo_url: https://github.com/podStation/podStation
+repo_url: https://github.com/enchentesrs/enchentesrs.github.io
 markdown_extensions:
   - attr_list
   - footnotes
