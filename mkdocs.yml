@@ -1,0 +1,42 @@
+site_name: Enchentes RS
+repo_url: https://github.com/podStation/podStation
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.tracking
+  - content.action.edit
+  palette:
+    primary: green
+    accent: red
+  #icon: 
+  #  logo: fontawesome/solid/rss
+  # favicon: images/favicon.ico
+# plugins:
+#   - blog
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:dellagustin.developer@gmail.com
+      name: Contato por e-mail
+    - icon: fontawesome/brands/github
+      link: https://github.com/enchentesrs/enchentesrs.github.io
+      name: Repositório no GitHub
+nav:
+- Início: index.md
+#- blog/index.md
+#- contacts.md
+#- Contribute: https://github.com/podStation/.github/blob/master/CONTRIBUTING.md
+#- Support: https://github.com/podStation/podStation#support-and-contact
+#- supportus.md 
