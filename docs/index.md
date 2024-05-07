@@ -26,9 +26,14 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 
 ### Doações materiais
 
-| Organização/link                  | Descrição                                                                                                                                                                  | Como doar |
-| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [sos-rs.com](https://sos-rs.com/) | Lista de abrigos e doações necessárias.                                                                                                                                    |           |
-| [Correios]                        | Doações podem ser feitas em diversas agêncas dos correios. <br> :fontawesome-brands-twitter: [Link da campanha](https://twitter.com/correiosBR/status/1787780269908333004) |           |
+| Organização/link                                                            | Descrição                                                                                                                                                                  |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Governo do Estado do RS](https://sosenchentes.rs.gov.br/o-que-e-onde-doar) | O que e onde doar, de acordo com o governo do estado                                                                                                                       |
+| [sos-rs.com](https://sos-rs.com/)                                           | Lista de abrigos e doações necessárias.                                                                                                                                    |
+| [Correios]                                                                  | Doações podem ser feitas em diversas agêncas dos correios. <br> :fontawesome-brands-twitter: [Link da campanha](https://twitter.com/correiosBR/status/1787780269908333004) |
 
 [Correios]: https://saladeimprensa.correios.com.br/arquivos/9505
+
+### Voluntariado
+
+Em construção - veja: <https://sosenchentes.rs.gov.br/como-ser-voluntario>
