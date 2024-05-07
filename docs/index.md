@@ -20,6 +20,15 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 | [Ação da Cidadania](https://www.acaodacidadania.org.br/como-apoiar) | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6eGa18N_HA/)               | PIX: sos@acaodacidadania.org.br  |
 | [Movimento União BR](https://www.movimentouniaobr.com.br/)          | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6fFFlSNhZw/)               | PIX: doe@movimentouniaobr.com.br |
 | [MST](https://mst.org.br/quem-somos/)                               | :fontawesome-brands-twitter: [Twitter](https://twitter.com/MST_Oficial/status/1786843972385608008) | PIX: 09.352.141/0001-48          |
-| [Conselho Missionário Indigenista (CIMI)](https://cimi.org.br/)     | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6mfJUTPu9a/)               | PIX                              |
+| [Conselho Missionário Indigenista (CIMI)](https://cimi.org.br/)     | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6mfJUTPu9a/)               | PIX: Veja o instragram           |
 | [Comissão Guarani Yvyrupa (CGY)](https://www.yvyrupa.org.br/)       | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hXaMBvib1/)               | PIX: 21.860.239/0001-01          |
 | [HUMUS Brasil](https://www.humusbr.org/quem-somos)                  | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hTjz3pxe3/)               | PIX: 46.265.388/0001-53          |
+
+### Doações materiais
+
+| Organização/link                  | Descrição                                                                                                                                                                  | Como doar |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [sos-rs.com](https://sos-rs.com/) | Lista de abrigos e doações necessárias.                                                                                                                                    |           |
+| [Correios]                        | Doações podem ser feitas em diversas agêncas dos correios. <br> :fontawesome-brands-twitter: [Link da campanha](https://twitter.com/correiosBR/status/1787780269908333004) |           |
+
+[Correios]: https://saladeimprensa.correios.com.br/arquivos/9505
