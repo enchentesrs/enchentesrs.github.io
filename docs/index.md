@@ -6,6 +6,11 @@ Esta página contém informações úteis para voluntários e pessoas afetadas p
 
 ### Doações financeiras 💰
 
+Abaixo segue uma lista de organizações que declararam campanhas para o recolhimento de doações financeiras.
+Os links levam para mais informações sobre as organizações e para as respectivas campanhas, para que você possa verificar a procedências das informações.
+
+A lista contém diferentes tipos de organizações, de diferentes partes do espectro político. Escolha a que você mais confia e acha que pode fazer mais impacto positivo.
+
 | Nome da organização                                                 | Links da campanha                                                                                      | Como doar                        |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------- |
 | Governo do Estado do RS                                             | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6elevDOfVW/)                   | PIX: 92.958.800/0001-38          |
