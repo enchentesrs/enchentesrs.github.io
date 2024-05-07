@@ -34,7 +34,9 @@ extra:
       link: https://github.com/enchentesrs/enchentesrs.github.io
       name: Repositório no GitHub
 nav:
-- Início: index.md
+- Início: 
+  - Como ajudar: index.md
+  - Onde se informar: onde-se-informar.md
 #- blog/index.md
 #- contacts.md
 #- Contribute: https://github.com/podStation/.github/blob/master/CONTRIBUTING.md
