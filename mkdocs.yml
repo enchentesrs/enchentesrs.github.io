@@ -36,6 +36,7 @@ extra:
 nav:
 - Início: 
   - Como ajudar: index.md
+  - How to help: how-to-help.md
   - Onde se informar: onde-se-informar.md
 - Ajude/contribua com o site: contribua-site.md
 #- blog/index.md
