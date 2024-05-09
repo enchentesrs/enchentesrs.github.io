@@ -70,3 +70,24 @@ International donations can be made through:
 Link social media and posts:
 
 * :fontawesome-brands-twitter: [@CozinhasMTST](https://twitter.com/CozinhasMTST)
+
+### Cufa (Central Única das Favelas)
+
+The non-governmental organization (NGO) [CUFA (Central Única das Favelas)](https://en.wikipedia.org/wiki/CUFA), together with the National Anti-Racism Federation, has support fronts in different regions of Rio Grande do Sul in cities such as Porto Alegre, Caxias do Sul, Bento Gonçalves, Vale do Taquari, among others. The entity has partnerships with ifood and the airline Gol, in addition to receiving support from numerous artists such as Anitta and Mano Brown[^agora-europa-article]. 
+
+Donations can be made via :fontawesome-brands-paypal: PayPal at `doacoespaypal@cufa.org.br`.
+
+Link social media and posts:
+
+* :fontawesome-brands-instagram: [@cufars](https://www.instagram.com/cufars)
+    * [Campaign on Instagram](https://www.instagram.com/p/C6wxjK8PXC2/) 
+
+[^agora-europa-article]: [Brazil: how to support victims of the flood in Rio Grande do Sul from abroad](https://agoraeuropa.com/ultimas-noticias/learn-how-to-help-victims-of-the-flood-in-rio-grande-do-sul-from-abroad/) - Agora Europa - May 6th, 2024
+
+### HUMUS Brasil
+
+The non-profit association operates in communities in areas at risk of disasters related to extreme natural events. The NGO has moved to assist Rio Grande do Sul in response to the request of volunteer firefighters due to the urgency for rescues, mainly of people stranded due to the rise in water levels. The association accepts donations through [credit card, Google Pay and :fontawesome-brands-paypal: PayPal](https://doar.humusbr.org/)[^agora-europa-article].
+
+Link social media and posts:
+
+ * :fontawesome-brands-instagram: [@humus_br](https://www.instagram.com/humus_br)
