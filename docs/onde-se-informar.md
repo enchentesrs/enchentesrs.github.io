@@ -13,6 +13,7 @@ Aqui listamos sites e oranizações de interesse para obter informações sobre 
 | [Metsul][metsul], Empresa de Meteorologia                  | :fontawesome-brands-facebook: [Twitter][metsul-x], :fontawesome-brands-instagram: [Instagram][metsul-ig], :fontawesome-brands-facebook: [Facebook][metsul-fb], :fontawesome-brands-youtube: [YouTube][metsul-yt] |
 | [Governo do Estado do RS](https://www.estado.rs.gov.br)    | :fontawesome-brands-facebook: [Twitter][govrs-x], :fontawesome-brands-instagram: [Instagram][govrs-ig], :fontawesome-brands-facebook: [Facebook][govrs-fb], :fontawesome-brands-youtube: [YouTube][govrs-yt]     |
 | [Defesa Civil RS](http://www.defesacivil.rs.gov.br/)       | :fontawesome-brands-facebook: [Twitter][dcrs-x], :fontawesome-brands-instagram: [Instagram][dcrs-ig], :fontawesome-brands-facebook: [Facebook][dcrs-fb], :fontawesome-brands-youtube: [YouTube][dcrs-yt]         |
+| [Instituto de Pesquisas Hidráulicas - UFRGS][iph]          | :fontawesome-brands-facebook: [Twitter][iph-x], :fontawesome-brands-instagram: [Instagram][iph-ig], :fontawesome-brands-facebook: [Facebook][iph-fb], :fontawesome-brands-youtube: [YouTube][iph-yt]             |
 | [Gaúcha Zero Hora (GZH)](https://gauchazh.clicrbs.com.br/) | :fontawesome-brands-facebook: [Twitter][gzh-x], :fontawesome-brands-instagram: [Instagram][gzh-ig], :fontawesome-brands-facebook: [Facebook][gzh-fb], :fontawesome-brands-youtube: [YouTube][gzh-yt]             |
 | [Porto Alegre 24 Horas][poa24]                             | :fontawesome-brands-facebook: [Twitter][poa24-x], :fontawesome-brands-instagram: [Instagram][poa24-ig], :fontawesome-brands-facebook: [Facebook][poa24-fb], :fontawesome-brands-youtube: [YouTube][poa24-yt]     |
 
@@ -30,6 +31,11 @@ Aqui listamos sites e oranizações de interesse para obter informações sobre 
 [dcrs-ig]: https://www.instagram.com/defesacivilrs/
 [dcrs-fb]: https://www.facebook.com/defesacivildors
 [dcrs-yt]: https://www.youtube.com/defesacivildoriograndedosul
+[iph]: https://www.ufrgs.br/iph/
+[iph-x]: https://twitter.com/ufrgs_iph
+[iph-ig]: https://instagram.com/iphnoticias/
+[iph-fb]: https://www.facebook.com/iph.noticias.ufrgs
+[iph-yt]: https://www.youtube.com/UCFJwpMwgAJNCT3_zLT2-Gvw
 [gzh-x]: https://twitter.com/gzhdigital
 [gzh-ig]: https://www.instagram.com/gzhdigital
 [gzh-fb]: https://www.facebook.com/gzhdigital
