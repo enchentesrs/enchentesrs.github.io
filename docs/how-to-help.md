@@ -2,20 +2,20 @@
 
 The south of Brazil, in the state of Rio Grande do Sul, is suffering from an extreme weather event[^bbc-flood-2024-05-05].
 
-This is an unprecedented event with[^boletim-defciv-2024-05-09]:
+This is an unprecedented event with[^boletim-defciv-2024]:
 
-* 107 confirmed deaths
-* 134 persons missing,
-* 754 persons injured,
-* 431 affected cities,
-* 68.519 sheltered persons,
-* 327.105 displaced persons,
-* 1.742.969 affected persons,
+* 143 confirmed deaths
+* 125 persons missing,
+* 806 persons injured,
+* 446 affected cities,
+* 81.170 sheltered persons,
+* 537.380 displaced persons,
+* 2.115.704 affected persons,
 
 This page collects information on how you can help it from abroad.
 
 [^bbc-flood-2024-05-05]: BBC on YouTube, May 5th 2024, [Brazil landslides and massive flooding kills dozens](https://youtu.be/h1l_J-ixpOU?si=O894MQuTS6f55pRc)
-[^boletim-defciv-2024-05-09]: Report from the civil defence of the state fo Rio Grande do Sul - [Defesa Civil atualiza balanço das enchentes no RS - 9/5, 18h](https://www.estado.rs.gov.br/defesa-civil-atualiza-balanco-das-enchentes-no-rs-9-5-18h)
+[^boletim-defciv-2024]: Report from the civil defence of the state fo Rio Grande do Sul - [Defesa Civil atualiza balanço das enchentes no RS - 12/5, 9h](https://estado.rs.gov.br/defesa-civil-atualiza-balanco-das-enchentes-no-rs-12-5-9h)
 
 ## Financial help 💰
 
