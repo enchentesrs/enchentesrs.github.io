@@ -23,13 +23,13 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 | [Conselho Missionário Indigenista (CIMI)](https://cimi.org.br/)       | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6mfJUTPu9a/)               | PIX: Veja o instragram           |
 | [Comissão Guarani Yvyrupa (CGY)](https://www.yvyrupa.org.br/)         | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hXaMBvib1/)               | PIX: 21.860.239/0001-01          |
 | [HUMUS Brasil](https://www.humusbr.org/quem-somos)                    | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hTjz3pxe3/)               | PIX: 46.265.388/0001-53          |
-| [APCEF/RS e Casa de Cultura e Resistência - Cozinha Solidária][apcef] | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6uMCc5uKwG/)               | PIX: 34.267.237/0001-55                                 |
+| [APCEF/RS e Casa de Cultura e Resistência - Cozinha Solidária][apcef] | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6uMCc5uKwG/)               | PIX: 34.267.237/0001-55          |
 
 [sosrs]: https://sosenchentes.rs.gov.br/sobre-o-pix 
 [^sosrs]: Os recursos são controlados por um comitê gestor. Veja quem compõe o comitê em [Comitê Gestor do pix SOS Rio Grande do Sul define critérios para a distribuição dos recursos](https://www.estado.rs.gov.br/comite-gestor-do-pix-sos-rio-grande-do-sul-define-criterios-para-a-distribuicao-dos-recursos).
 [apcef]: https://www.apcefrs.org.br/apcef-rs-segue-incansavel-nas-acoes-de-solidariedade-nesses-dias-tao-dificeis
 
-### Doações materiais
+### Doações materiais 👕
 
 | Organização/link                                                            | Descrição                                                                                                                                                                  |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +40,6 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 
 [Correios]: https://saladeimprensa.correios.com.br/arquivos/9505
 
-### Voluntariado
+### Voluntariado 💪
 
 Em construção - veja: <https://sosenchentes.rs.gov.br/como-ser-voluntario>

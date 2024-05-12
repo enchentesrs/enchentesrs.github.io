@@ -35,9 +35,10 @@ extra:
       name: Repositório no GitHub
 nav:
 - Início: 
-  - Como ajudar: index.md
-  - How to help: how-to-help.md
-  - Onde se informar: onde-se-informar.md
+  - Como ajudar 💰💪: index.md
+  - How to help 💰💪: how-to-help.md
+  - Onde se informar❓ℹ️: onde-se-informar.md
+  - Encontrados e desaparecidos 🧑: encontrados-desaparecidos.md
 - Ajude/contribua com o site: contribua-site.md
 #- blog/index.md
 #- contacts.md
