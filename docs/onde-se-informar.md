@@ -1,5 +1,9 @@
 # Onde se informar
 
+## Boletins do governo estadual
+
+Nesta página você encontra os boletins oficiais da Secretaria de Comunicação do governo do Estado do Rio Grande do Sul: <https://www.estado.rs.gov.br/boletins-sobre-o-impacto-das-chuvas-no-rs>
+
 ## Organizaçoes e sites de notícia
 
 Aqui listamos sites e oranizações de interesse para obter informações sobre as enchentes.
