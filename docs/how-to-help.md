@@ -57,7 +57,7 @@ The city hall of Porto Alegre, capital city of the state, is collecting donation
 *Account:* 2822 0006 000000071336-1
 *CNPJ:* 92.963.560/0001-60  
 
-### Solidary Kitchen from the Homeless Workers Movement
+### Solidary Kitchen from the Homeless Workers Movement (MTST)
 
 The *Solidary Kitchen* of the Movement of the [Homeless Workers Movement](https://en.wikipedia.org/wiki/Homeless_Workers%27_Movement) (Cozinha Solidária do Movimento dos Trabalhadores Sem Teto - MTST) is providing **food for the people in need** ([link to campaign](https://apoia.se/enchentesrs)).
 
@@ -71,6 +71,7 @@ International donations can be made through:
 Link social media and posts:
 
 * :fontawesome-brands-twitter: [@CozinhasMTST](https://twitter.com/CozinhasMTST)
+* :fontawesome-brands-instagram: [@cozinhassolidariasmtst](https://www.instagram.com/cozinhassolidariasmtst)
 
 ### Cufa (Central Única das Favelas)
 
@@ -85,6 +86,21 @@ Link social media and posts:
 
 [^agora-europa-article]: [Brazil: how to support victims of the flood in Rio Grande do Sul from abroad](https://agoraeuropa.com/ultimas-noticias/learn-how-to-help-victims-of-the-flood-in-rio-grande-do-sul-from-abroad/) - Agora Europa - May 6th, 2024
 
+### Landless Workers' Movement (MST)
+
+The [Landless Workers' Movement](https://en.wikipedia.org/wiki/Landless_Workers%27_Movement) (Movimento dos Trabalhadores Rurais Sem Terra - MST) has started campaign to help the families of their movement, specially rice farmers[^mst-organic-rice], who have been affected by the flood.
+
+Donations should be done through the [apoia.se platform campaign](https://apoia.se/sos_mst)[^mst-campanha], but if you have a problem with that platform, you can also donate via Stripe, but that's a last option, as it has higher fees ([USD](https://donate.stripe.com/bIYdRy3E5cFO05W6or), [EUR](https://donate.stripe.com/8wM4gYfmNfS04mc7sw), [GBP](https://donate.stripe.com/8wM14M5MdcFO8CseUZ)).
+
+Link social media and posts:
+
+* :fontawesome-brands-twitter: [@MST_Oficial](https://twitter.com/MST_Oficial/)
+* :fontawesome-brands-instagram: [@MST_Oficial](https://twitter.com/MST_Oficial/)
+* :fontawesome-brands-facebook: [MovimentoSemTerra](https://www.facebook.com/MovimentoSemTerra/)
+
+[^mst-organic-rice]: [Como o MST se tornou o maior produtor de arroz orgânico da América Latina](https://www.bbc.com/portuguese/brasil-39775504) _(How MST became the largest producer of organic rice of Latin America)_, BCC News Brazil, May 7th 2017
+[^mst-campanha]: [MST inicia campanha de solidariedade em apoio às vítimas das enchentes no Rio Grande do Sul](https://mst.org.br/2024/05/04/mst-inicia-campanha-de-solidariedade-em-apoio-as-vitimas-das-enchentes-no-rio-grande-do-sul/), May 4th, 2023, website of the MST
+
 ### HUMUS Brasil
 
 The non-profit association operates in communities in areas at risk of disasters related to extreme natural events. The NGO has moved to assist Rio Grande do Sul in response to the request of volunteer firefighters due to the urgency for rescues, mainly of people stranded due to the rise in water levels. The association accepts donations through [credit card, Google Pay and :fontawesome-brands-paypal: PayPal](https://doar.humusbr.org/)[^agora-europa-article].
@@ -92,3 +108,17 @@ The non-profit association operates in communities in areas at risk of disasters
 Link social media and posts:
 
  * :fontawesome-brands-instagram: [@humus_br](https://www.instagram.com/humus_br)
+
+### Animal Disaster Response Group
+
+Animal Disaster Response Group ([Grupo de Resposta a Animais em Desastres](https://gradbrasil.org.br/quem-somos/) - GRAD) The group of volunteers is involved in rescuing animals and families during the flood in Rio Grande do Sul. The action takes place in different cities in Rio Grande do Sul, mainly in the Metropolitan Region of Porto Alegre. [Donations are possible via credit card and PayPal](https://www.paypal.com/donate?hosted_button_id=DDYDJRAEC7PJU&fbclid=PAAaY6H44dE3KAZGH_lxGzTM2ndICLr0cERSIFb82ockyE38kP-ZkPHwUi14Q_aem_Acsg4ousby_7IFJPXWwFE5Q7ZONGwa9XwlpW2Qzt9C_xvJbZBfZut5A5Ii6UblDpqR0)[^agora-europa-article].
+
+Link social media and posts:
+
+* :fontawesome-brands-instagram: [@grad_brasil](https://www.instagram.com/grad_brasil)
+
+### Luz Alliance Fund
+
+Brazilian model and international activist Gisele Bündchen [announced the reopening of donations](https://www.instagram.com/p/C6wwOYDPKBT/) to the Emergency Fund Luz Alliance in partnership with the Brazil Foundation with funds allocated to those affected in Rio Grande do Sul. Donations can be made in [Brazilian real or US dollars](https://brazilfoundation.org/en/help-rio-grande-do-sul/)[^agora-europa-article].
+
+* :fontawesome-brands-instagram: [@brazilfound](https://www.instagram.com/brazilfound)
