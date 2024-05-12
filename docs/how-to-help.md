@@ -7,7 +7,7 @@ This is an unprecedented event with[^boletim-defciv-2024]:
 * 143 confirmed deaths
 * 125 persons missing,
 * 806 persons injured,
-* 446 affected cities,
+* 446 affected cities (of 497[^list-of-cities-rs]),
 * 81.170 sheltered persons,
 * 537.380 displaced persons,
 * 2.115.704 affected persons,
@@ -16,6 +16,7 @@ This page collects information on how you can help it from abroad.
 
 [^bbc-flood-2024-05-05]: BBC on YouTube, May 5th 2024, [Brazil landslides and massive flooding kills dozens](https://youtu.be/h1l_J-ixpOU?si=O894MQuTS6f55pRc)
 [^boletim-defciv-2024]: Report from the civil defence of the state fo Rio Grande do Sul - [Defesa Civil atualiza balanço das enchentes no RS - 12/5, 9h](https://estado.rs.gov.br/defesa-civil-atualiza-balanco-das-enchentes-no-rs-12-5-9h)
+[^list-of-cities-rs]: [Lista de municípios do Rio Grande do Sul por população](https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Rio_Grande_do_Sul_por_popula%C3%A7%C3%A3o) (wikipedia article, in portuguese, consulted on May 12, 2024)
 
 ## Financial help 💰
 
