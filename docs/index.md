@@ -13,7 +13,7 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 
 | Organização                                                         | Links da campanha                                                                                  | Como doar                        |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------- |
-| Governo do Estado do RS                                             | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6elevDOfVW/)               | PIX: 92.958.800/0001-38          |
+| Governo do Estado do RS[^sos-rs-comite]                             | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6elevDOfVW/)               | PIX: 92.958.800/0001-38          |
 | [MTST - Cozinha Solidária](https://mtst.org/cozinhas-solidarias/)   | <https://apoia.se/enchentesrs>                                                                     | PIX: enchentes@apoia.se          |
 | Instituto Vakinha                                                   | <https://www.vakinha.com.br/4712837>                                                               | PIX: enchentes@vakinha.com.br    |
 | [Central Única das Favelas (CUFA)](https://cufa.org.br/doar/)       | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hNWBzpbRK/)               | PIX: doacoes@cufa.org.br         |
@@ -23,6 +23,8 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 | [Conselho Missionário Indigenista (CIMI)](https://cimi.org.br/)     | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6mfJUTPu9a/)               | PIX: Veja o instragram           |
 | [Comissão Guarani Yvyrupa (CGY)](https://www.yvyrupa.org.br/)       | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hXaMBvib1/)               | PIX: 21.860.239/0001-01          |
 | [HUMUS Brasil](https://www.humusbr.org/quem-somos)                  | :fontawesome-brands-instagram: [Instagram](https://www.instagram.com/p/C6hTjz3pxe3/)               | PIX: 46.265.388/0001-53          |
+
+[^sos-rs-comite]: Os recursos são controlados por um comitê gestor. Veja quem compõe o comitê em [Comitê Gestor do pix SOS Rio Grande do Sul define critérios para a distribuição dos recursos](https://www.estado.rs.gov.br/comite-gestor-do-pix-sos-rio-grande-do-sul-define-criterios-para-a-distribuicao-dos-recursos).
 
 ### Doações materiais
 
