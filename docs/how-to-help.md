@@ -118,7 +118,7 @@ Brazilian model and international activist Gisele Bündchen [announced the reope
 
 ## Spread the word 📣
 
-Besides donating to an institution and/or campaign (see [below ⬇️](#financial-help)), you can also help by spreading the word. Share this page with your network and on your social media accounts.  
+Besides donating to an institution and/or campaign, you can also help by spreading the word. Share this page with your network and on your social media accounts.  
 You can use the following posts:
 
 * :fontawesome-brands-twitter: [Twitter](https://twitter.com/dellagustindev/status/1788845226045354330)
