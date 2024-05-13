@@ -1,24 +1,17 @@
 # Flood in the south of Brazil, Rio Grande do Sul - How to Help
 
-The south of Brazil, in the state of Rio Grande do Sul, is suffering from an extreme weather event[^bbc-flood-2024-05-05].
+!!! abstract "What's happening?"
+    The south of Brazil, in the state of Rio Grande do Sul, is suffering from an extreme weather event[^bbc-flood-2024-05-05]. **Unprecedented floods** all over the state have already **affected 446 cities** (of 497[^list-of-cities-rs]) and more than **2.100.000 people**, causing 134 confirmed deaths and **displacing more than 530.000 people**[^boletim-defciv-2024].
 
-This is an unprecedented event with[^boletim-defciv-2024]:
-
-* 143 confirmed deaths
-* 125 persons missing,
-* 806 persons injured,
-* 446 affected cities (of 497[^list-of-cities-rs]),
-* 81.170 sheltered persons,
-* 537.380 displaced persons,
-* 2.115.704 affected persons,
-
-This page collects information on how you can help it from abroad.
+This page collects information on how you can help from abroad. You can [contribute financially💰](#help-financially) and also by [spreading the word📣](#spread-the-word). 
 
 [^bbc-flood-2024-05-05]: BBC on YouTube, May 5th 2024, [Brazil landslides and massive flooding kills dozens](https://youtu.be/h1l_J-ixpOU?si=O894MQuTS6f55pRc)
 [^boletim-defciv-2024]: Report from the civil defence of the state fo Rio Grande do Sul - [Defesa Civil atualiza balanço das enchentes no RS - 12/5, 9h](https://estado.rs.gov.br/defesa-civil-atualiza-balanco-das-enchentes-no-rs-12-5-9h)
 [^list-of-cities-rs]: [Lista de municípios do Rio Grande do Sul por população](https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_do_Rio_Grande_do_Sul_por_popula%C3%A7%C3%A3o) (wikipedia article, in portuguese, consulted on May 12, 2024)
 
-## Financial help 💰
+## Help financially💰
+
+Below you will find a list of institutions that are helping on disaster relief efforts, to which you can donate from abroad. 
 
 ### Government of the State of Rio Grande do Sul
 
@@ -122,3 +115,13 @@ Link social media and posts:
 Brazilian model and international activist Gisele Bündchen [announced the reopening of donations](https://www.instagram.com/p/C6wwOYDPKBT/) to the Emergency Fund Luz Alliance in partnership with the Brazil Foundation with funds allocated to those affected in Rio Grande do Sul. Donations can be made in [Brazilian real or US dollars](https://brazilfoundation.org/en/help-rio-grande-do-sul/)[^agora-europa-article].
 
 * :fontawesome-brands-instagram: [@brazilfound](https://www.instagram.com/brazilfound)
+
+## Spread the word 📣
+
+Besides donating to an institution and/or campaign (see [below ⬇️](#financial-help)), you can also help by spreading the word. Share this page with your network and on your social media accounts.  
+You can use the following posts:
+
+* :fontawesome-brands-twitter: [Twitter](https://twitter.com/dellagustindev/status/1788845226045354330)
+* :fontawesome-brands-facebook: [Facebook](https://www.facebook.com/dellagustin/posts/10220006574474004)
+* :fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/posts/dellagustin_flood-in-the-south-of-brazil-rio-grande-activity-7194612518030397440-Di-W)
+* :fontawesome-brands-mastodon: [Mastodon](https://fosstodon.org/@dellagustin/112415718420762619)
