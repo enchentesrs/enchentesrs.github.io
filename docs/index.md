@@ -4,7 +4,7 @@ Esta página contém informações úteis para voluntários e pessoas afetadas p
 
 ## Como ajudar
 
-### Doações financeiras 💰
+### Doações financeiras💰
 
 Abaixo segue uma lista de organizações que declararam campanhas para o recolhimento de doações financeiras.
 Os links levam para mais informações sobre as organizações e para as respectivas campanhas, para que você possa verificar a procedências das informações.
@@ -29,7 +29,7 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 [^sosrs]: Os recursos são controlados por um comitê gestor. Veja quem compõe o comitê em [Comitê Gestor do pix SOS Rio Grande do Sul define critérios para a distribuição dos recursos](https://www.estado.rs.gov.br/comite-gestor-do-pix-sos-rio-grande-do-sul-define-criterios-para-a-distribuicao-dos-recursos).
 [apcef]: https://www.apcefrs.org.br/apcef-rs-segue-incansavel-nas-acoes-de-solidariedade-nesses-dias-tao-dificeis
 
-### Doações materiais 👕
+### Doações materiais👕
 
 | Organização/link                                                            | Descrição                                                                                                                                                                  |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,6 +40,15 @@ A lista contém diferentes tipos de organizações, de diferentes partes do espe
 
 [Correios]: https://saladeimprensa.correios.com.br/arquivos/9505
 
-### Voluntariado 💪
+### Voluntariado💪
 
 Em construção - veja: <https://sosenchentes.rs.gov.br/como-ser-voluntario>
+
+### Espalhe a palavra📣
+
+Ajude essa página a alcançar o máximo de pessoas compartilhando elas nas suas redes sociais. Você pode compartilhar ela a partir dos seguintes posts:
+
+* :fontawesome-brands-twitter: [Twitter](https://twitter.com/dellagustin/status/1790106857614258523)
+* :fontawesome-brands-facebook: [Facebook](https://www.facebook.com/dellagustin/posts/10220006754238498)
+* :fontawesome-brands-linkedin: [LinkedIn](https://www.linkedin.com/posts/dellagustin_opensource-activity-7195870421378887680-z_8K)
+* :fontawesome-brands-mastodon: [Mastodon](https://bolha.us/@dellagustin/112435483783613777)
